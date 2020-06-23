@@ -14,6 +14,7 @@ You need to copy `.env_example` to `.env` and fill relevant data
 - Check possibility to use fake mp3
 - Replace sounds with an "empty" sound
 - Use local stored images
+- Setup `ndb` instead of VSCODE debugger
 
 ## License
 
