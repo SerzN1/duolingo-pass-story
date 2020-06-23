@@ -1,0 +1,8 @@
+/* The file temporary is not in use */
+
+*,
+*:after,
+*:before {
+    transition-property: none !important;
+    animation: none !important;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "duolingo_puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hack": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "serzn1",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^3.3.0"
+  },
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5",
+    "@types/dotenv": "^8.2.0",
+    "@types/puppeteer": "^3.0.0"
+  }
+}
